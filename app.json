@@ -9,11 +9,11 @@
       "value":"pk.eyJ1IjoicGFyYWdwYXRoYWsyMDA2IiwiYSI6ImNrZzRnbG8wdDBqbncycWx3Y242NzRqMXIifQ.s-muGjLNT61OHx2OzUT4zQ"
     },
     "REACT_APP_SHARETRIBE_SDK_CLIENT_ID": {
-      "description": "Client ID (API key). You will find this from the Flex Console."
+      "description": "Client ID (API key). You will find this from the Flex Console.",
       "value":"1be1d829-42fc-43d9-9995-f5f173340be3"      
     },
     "SHARETRIBE_SDK_CLIENT_SECRET": {
-      "description": "Client Secret (API secret token). You will find this from the Flex Console."
+      "description": "Client Secret (API secret token). You will find this from the Flex Console.",
     },
     "REACT_APP_STRIPE_PUBLISHABLE_KEY": {
       "description": "Stripe publishable API key for generating tokens with Stripe API. Use test key (prefix pktest) for development.",
@@ -24,15 +24,16 @@
       "value": "USD"
     },
     "REACT_APP_CANONICAL_ROOT_URL": {
-      "description": "Canonical root url of the marketplace. E.g. https://the-name-of-your-app.herokuapp.com or your actual domain. This is needed for social media sharing and SEO optimization."
+      "description": "Canonical root url of the marketplace. E.g. https://the-name-of-your-app.herokuapp.com or your actual domain. This is needed for social media sharing and SEO optimization.",
+      "value": "https://share-tribe-app.herokuapp.com"
     },
     "NODE_ENV": {
       "description": "Node env. Use 'development' for development and 'production' for production.",
-      "value": "production"
+      "value": "development"
     },
     "REACT_APP_ENV": {
       "description": "A more fine grained env definition than NODE_ENV. Is used for example to differentiate envs in logging.",
-      "value": "production"
+      "value": "development"
     },
     "REACT_APP_SHARETRIBE_USING_SSL": {
       "description": "Redirect HTTP to HTTPS?",
