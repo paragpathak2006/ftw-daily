@@ -5,15 +5,15 @@
   "repository": "https://github.com/sharetribe/ftw-daily/",
   "env": {
     "REACT_APP_MAPBOX_ACCESS_TOKEN": {
-      "description": "See: Integrating to map providers documentation https://github.com/sharetribe/ftw-daily/blob/master/docs/map-providers.md"
+      "description": "See: Integrating to map providers documentation https://github.com/sharetribe/ftw-daily/blob/master/docs/map-providers.md",
+      "value":"pk.eyJ1IjoicGFyYWdwYXRoYWsyMDA2IiwiYSI6ImNrZzRnbG8wdDBqbncycWx3Y242NzRqMXIifQ.s-muGjLNT61OHx2OzUT4zQ"
     },
     "REACT_APP_SHARETRIBE_SDK_CLIENT_ID": {
       "description": "Client ID (API key). You will find this from the Flex Console."
-      "value":"pk_test_51JwAnnAJOFqTqVDSrCELHqk7za6e2AinELupfyPAZgRsyPsWYxM98xzXNhB0PuiQP9fo0IAIHyPzx95apKyBr8Mo00IoeZvR8N"      
+      "value":"1be1d829-42fc-43d9-9995-f5f173340be3"      
     },
     "SHARETRIBE_SDK_CLIENT_SECRET": {
       "description": "Client Secret (API secret token). You will find this from the Flex Console."
-      "value":"pk_test_51JwAnnAJOFqTqVDSrCELHqk7za6e2AinELupfyPAZgRsyPsWYxM98xzXNhB0PuiQP9fo0IAIHyPzx95apKyBr8Mo00IoeZvR8N"      
     },
     "REACT_APP_STRIPE_PUBLISHABLE_KEY": {
       "description": "Stripe publishable API key for generating tokens with Stripe API. Use test key (prefix pktest) for development.",
