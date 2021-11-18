@@ -9,12 +9,15 @@
     },
     "REACT_APP_SHARETRIBE_SDK_CLIENT_ID": {
       "description": "Client ID (API key). You will find this from the Flex Console."
+      "value":"pk_test_51JwAnnAJOFqTqVDSrCELHqk7za6e2AinELupfyPAZgRsyPsWYxM98xzXNhB0PuiQP9fo0IAIHyPzx95apKyBr8Mo00IoeZvR8N"      
     },
     "SHARETRIBE_SDK_CLIENT_SECRET": {
       "description": "Client Secret (API secret token). You will find this from the Flex Console."
+      "value":"pk_test_51JwAnnAJOFqTqVDSrCELHqk7za6e2AinELupfyPAZgRsyPsWYxM98xzXNhB0PuiQP9fo0IAIHyPzx95apKyBr8Mo00IoeZvR8N"      
     },
     "REACT_APP_STRIPE_PUBLISHABLE_KEY": {
-      "description": "Stripe publishable API key for generating tokens with Stripe API. Use test key (prefix pktest) for development."
+      "description": "Stripe publishable API key for generating tokens with Stripe API. Use test key (prefix pktest) for development.",
+      "value":"pk_test_51JwAnnAJOFqTqVDSrCELHqk7za6e2AinELupfyPAZgRsyPsWYxM98xzXNhB0PuiQP9fo0IAIHyPzx95apKyBr8Mo00IoeZvR8N"      
     },
     "REACT_APP_SHARETRIBE_MARKETPLACE_CURRENCY": {
       "description": "The currency used in the Marketplace as ISO 4217 currency code. For example: USD, EUR, CAD, AUD, etc.",
