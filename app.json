@@ -26,11 +26,11 @@
     },
     "NODE_ENV": {
       "description": "Node env. Use 'development' for development and 'production' for production.",
-      "value": "development"
+      "value": "production"
     },
     "REACT_APP_ENV": {
       "description": "A more fine grained env definition than NODE_ENV. Is used for example to differentiate envs in logging.",
-      "value": "development"
+      "value": "production"
     },
     "REACT_APP_SHARETRIBE_USING_SSL": {
       "description": "Redirect HTTP to HTTPS?",
